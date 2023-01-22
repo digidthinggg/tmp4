@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Proxy",
+  "sourceName": "contracts/Proxy.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220f4e5c04e3c65e29923efc26e8817e57de918c37a54d5ee05f79777669e8c811f64736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220f4e5c04e3c65e29923efc26e8817e57de918c37a54d5ee05f79777669e8c811f64736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
